@@ -26,7 +26,7 @@ class MainActivity : AppCompatActivity() {
                      Toast.makeText(this, "Bienvenido " +  etNombre.text, Toast.LENGTH_LONG).show()
                 }
             }else{
-            Toast.makeText(this, "Bienvenido Escribe tu nombre para saludarte :/", Toast.LENGTH_LONG).show()
+            Toast.makeText(this, "Bienvenido Escribe tu nombre para saludarte :)", Toast.LENGTH_LONG).show()
             }
             })
     }
